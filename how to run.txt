@@ -1,0 +1,10 @@
+open folder Run from home
+open home.html
+
+front end is in html and css 
+back end is  in python
+
+it is an E-voting website for executing voting online by this website user can register themselves 
+and by machine learning in python(CV-computer vision) user can click there snaps for registration 
+software stores there 5 pics in the dataset and other details are stored in the sqlite database
+by this website user can vote authentically and securely.
